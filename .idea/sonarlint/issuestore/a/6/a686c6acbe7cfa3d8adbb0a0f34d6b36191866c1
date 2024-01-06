@@ -1,0 +1,101 @@
+
+t	java:S135è"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135˜"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S135İ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Üâÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖëşŠ
+d	java:S116"PRename this field "ArrBD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢šÈ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„ò™¢úÿÿÿÿ
+
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µŞ ¿úÿÿÿÿ
+;
+java:S1659"%Declare "lenFile" on a separate line.(ó›¾
+h
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ŠŒ¡”
+T
+java:S1854$"9Remove this useless assignment to local variable "arrHD".(…æŸ¨ÿÿÿÿÿ
+7
+java:S1659%"!Declare "mas" on a separate line.(¤Âµù
+7
+java:S1659+"!Declare "gia" on a separate line.(ÊÂäÙ
+E
+java:S1481$"*Remove this unused "arrHD" local variable.(…æŸ¨ÿÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(Ÿ»Ó
+l
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(‡£Èùÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(‡£Èùÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(ÑÂÅÌøÿÿÿÿ
+@	java:S106?"+Replace this use of System.out by a logger.(Â—êˆ
+E	java:S106E"+Replace this use of System.out by a logger.(ÖŒ€Ÿıÿÿÿÿ
+@	java:S106T"+Replace this use of System.out by a logger.(Â—êˆ
+E	java:S106Y"+Replace this use of System.out by a logger.(ÖŒ€Ÿıÿÿÿÿ
+E	java:S106c"+Replace this use of System.out by a logger.(áÚ™¢ûÿÿÿÿ
+]	java:S899‚"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+]	java:S899¬"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(ì¡‚Àùÿÿÿÿ
+N
+java:S1135è"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ï"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135÷"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+F
+java:S2093İ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F	java:S106©"+Replace this use of System.out by a logger.(²Ÿ‹êøÿÿÿÿ
+A	java:S106µ"+Replace this use of System.out by a logger.(…õÈÔ
+W	java:S125¾"<This block of commented-out lines of code should be removed.(Š»…‘ûÿÿÿÿ
+7
+java:S1659Æ" Declare "vt" on a separate line.(¨•œ™
+<
+java:S1659Ò" Declare "vt" on a separate line.(±Òâ¼ıÿÿÿÿ
+C
+java:S1481Ò"'Remove this unused "vt" local variable.(±Òâ¼ıÿÿÿÿ
+F	java:S106á"+Replace this use of System.out by a logger.(¼Æœäÿÿÿÿÿ
+A	java:S106ä"+Replace this use of System.out by a logger.(¹²õü
+A	java:S106ç"+Replace this use of System.out by a logger.(ÜÎóØ
+G
+java:S6035ì"0Replace this alternation with a character class.(ƒ¶²ğ
+@	java:S106ò"+Replace this use of System.out by a logger.(È‡»x
+F	java:S106õ"+Replace this use of System.out by a logger.(¶Œ¯×øÿÿÿÿ
+A	java:S106ü"+Replace this use of System.out by a logger.(§ˆÙŠ
+A	java:S106ş"+Replace this use of System.out by a logger.(È¿¡
+C
+java:S1125‚"'Remove the unnecessary boolean literal.(ŠÖáÅûÿÿÿÿ
+i
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Êˆî
+A	java:S106“"+Replace this use of System.out by a logger.(¤²Ô™
+F	java:S106—"+Replace this use of System.out by a logger.(Ïò¼Ñûÿÿÿÿ
+F	java:S106¢"+Replace this use of System.out by a logger.(ÍËæ…øÿÿÿÿ
+F	java:S106¥"+Replace this use of System.out by a logger.(¶Œ¯×øÿÿÿÿ
+@	java:S106«"+Replace this use of System.out by a logger.(®Úîa
+A	java:S106´"+Replace this use of System.out by a logger.(¸Ïÿ©
+@	java:S106µ"+Replace this use of System.out by a logger.(ˆ´Üe
+F	java:S106¶"+Replace this use of System.out by a logger.(“‹¼íıÿÿÿÿ
+F	java:S106·"+Replace this use of System.out by a logger.(„Ãîúÿÿÿÿ
+F	java:S106¸"+Replace this use of System.out by a logger.(Ñ»ã›ûÿÿÿÿ
+F	java:S106º"+Replace this use of System.out by a logger.(¾÷ÿÖúÿÿÿÿ
+8	java:S131¼""Add a default case to this switch.(ŠÎ’¹
+F	java:S106¾"+Replace this use of System.out by a logger.(†ğşıÿÿÿÿ
+F	java:S106Ä"+Replace this use of System.out by a logger.(­´€ûÿÿÿÿ
+F	java:S106Ê"+Replace this use of System.out by a logger.(…Ãæúüÿÿÿÿ
+F	java:S106Ñ"+Replace this use of System.out by a logger.(“êÙşÿÿÿÿ
+A	java:S106Ü"+Replace this use of System.out by a logger.( ŒùÅ
+<
+java:S1659ï"%Declare "loadnum" on a separate line.(Ôßí
+C
+java:S1481ï",Remove this unused "loadnum" local variable.(Ôßí
+F
+java:S1481ğ"*Remove this unused "check" local variable.(’¼Œ‹øÿÿÿÿ
+F	java:S106ò"+Replace this use of System.out by a logger.(ù›ÿçıÿÿÿÿ
+A	java:S106ó"+Replace this use of System.out by a logger.(¥äŞÔ
+F	java:S106ô"+Replace this use of System.out by a logger.( í¾ùÿÿÿÿ
+A	java:S106õ"+Replace this use of System.out by a logger.(ã õ­
+A	java:S106ö"+Replace this use of System.out by a logger.(Ñ¶
+F	java:S106÷"+Replace this use of System.out by a logger.(ó¥øşÿÿÿÿ
+F	java:S106ø"+Replace this use of System.out by a logger.(èß«üÿÿÿÿ
+8	java:S131ú""Add a default case to this switch.(ŠÎ’¹
+A	java:S106Œ"+Replace this use of System.out by a logger.(ÉÓµ°
+G
+java:S6035"0Replace this alternation with a character class.(ƒ¶²ğ
+F	java:S106’"+Replace this use of System.out by a logger.(“êÙşÿÿÿÿ

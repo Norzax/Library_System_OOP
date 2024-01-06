@@ -1,0 +1,47 @@
+
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ùššúÿÿÿÿ
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‹…À
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‹…À
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìŠµôþÿÿÿÿ
+^
+java:S3973‚"GUse indentation to denote the code conditionally executed by this "if".(¼Àç¼
+ž
+java:S2681„"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Èù¬Ã
+~
+java:S4165"hRemove this useless assignment; "songaymuon" already holds the assigned value along all execution paths.(Ïýš’
+i	java:S116"ORename this field "MAHD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ«þúÿÿÿÿ
+i	java:S116"ORename this field "MAKH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ«þúÿÿÿÿ
+i	java:S116"ORename this field "MANV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ«þúÿÿÿÿ
+i	java:S116	"TRename this field "Ngay_xuat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¼îÙ
+j	java:S116
+"URename this field "TRANG_THAI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®™¾Ô
+n	java:S116"TRename this field "TONG_TIEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öí™¼úÿÿÿÿ
+\
+java:S1659"ADeclare "MAKH" and all following declarations on a separate line.(úƒ«þúÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "songaymuon".(Ïýš’
+E
+java:S1656"/Remove or correct this useless self-assignment.(Ïýš’
+c	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‚”ž
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼µç¨
+c	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£á¬µ
+h	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øµ†ùÿÿÿÿ
+h	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ùššúÿÿÿÿ
+c	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê°ƒº
+E	java:S106a"+Replace this use of System.out by a logger.(Ÿ°×ïúÿÿÿÿ
+@	java:S106d"+Replace this use of System.out by a logger.(¯áÄÚ
+c	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž¦á–
+L
+java:S1854k"6Remove this useless assignment to local variable "ak".(‚Õé–
+=
+java:S1481k"'Remove this unused "ak" local variable.(‚Õé–
+@	java:S106m"+Replace this use of System.out by a logger.(ßˆ€ÿ
+F
+java:S6035o"0Replace this alternation with a character class.(ƒ¶²ð
+@	java:S106r"+Replace this use of System.out by a logger.(»ÐÏ¡
+h	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁ²îøÿÿÿÿ
+A	java:S106„"+Replace this use of System.out by a logger.(Èù¬Ã
+m
+java:S3457†"Q%n should be used in place of \n to produce the platform-specific line separator.(î¸§íøÿÿÿÿ
+F	java:S106†"+Replace this use of System.out by a logger.(î¸§íøÿÿÿÿ
+d	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¦é‹
